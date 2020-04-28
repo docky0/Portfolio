@@ -1,1 +1,1 @@
-System works in an Ethernet network on a Raspberry Pi computer. The website is used to store and modify data, as well as to share them with other website users
+System for creating a portfolio with a user panel, adding and modifying projects, etc. Project not yet completed.
